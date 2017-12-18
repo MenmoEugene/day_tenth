@@ -1,3 +1,0 @@
-javac -d c : \myclass PackageDemo.java
-
-set classpath=c :\myclass
